@@ -1,0 +1,14 @@
+[
+    {
+        "title": "Tarea de Programaci\u00f3n Profesi\u00f3nal",
+        "completed": false
+    },
+    {
+        "title": "Tarea de Teledetecci\u00f3n aplicada",
+        "completed": true
+    },
+    {
+        "title": "Tarea de Gesti\u00f3n de Proyectos Informaticos",
+        "completed": false
+    }
+]

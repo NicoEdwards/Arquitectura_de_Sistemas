@@ -1,0 +1,104 @@
+2025-06-09 16:51:55,190 - INFO - Verificando servidores al inicio...
+2025-06-09 16:51:59,309 - INFO - Balanceador de carga iniciado en http://localhost:8080
+2025-06-09 16:51:59,311 - INFO - Puedes verificar el estado de los servidores en http://localhost:8080/status
+2025-06-09 16:51:59,415 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.104:8080
+2025-06-09 16:51:59,415 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-09 17:03:04,425 - INFO - 127.0.0.1 - - [09/Jun/2025 17:03:04] "GET / HTTP/1.1" 200 -
+2025-06-09 17:03:08,510 - INFO - 127.0.0.1 - - [09/Jun/2025 17:03:08] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-09 17:03:11,889 - INFO - 127.0.0.1 - - [09/Jun/2025 17:03:11] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:03:17,499 - INFO - 127.0.0.1 - - [09/Jun/2025 17:03:17] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:03:22,779 - INFO - 127.0.0.1 - - [09/Jun/2025 17:03:22] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:03:26,613 - INFO - 127.0.0.1 - - [09/Jun/2025 17:03:26] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:03:32,766 - INFO - 127.0.0.1 - - [09/Jun/2025 17:03:32] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:03:37,464 - INFO - 127.0.0.1 - - [09/Jun/2025 17:03:37] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:03:42,777 - INFO - 127.0.0.1 - - [09/Jun/2025 17:03:42] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:03:47,472 - INFO - 127.0.0.1 - - [09/Jun/2025 17:03:47] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:03:52,755 - INFO - 127.0.0.1 - - [09/Jun/2025 17:03:52] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:03:57,473 - INFO - 127.0.0.1 - - [09/Jun/2025 17:03:57] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:04:02,759 - INFO - 127.0.0.1 - - [09/Jun/2025 17:04:02] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:04:07,481 - INFO - 127.0.0.1 - - [09/Jun/2025 17:04:07] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:04:12,780 - INFO - 127.0.0.1 - - [09/Jun/2025 17:04:12] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:04:17,451 - INFO - 127.0.0.1 - - [09/Jun/2025 17:04:17] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:04:22,760 - INFO - 127.0.0.1 - - [09/Jun/2025 17:04:22] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:05:01,777 - INFO - 127.0.0.1 - - [09/Jun/2025 17:05:01] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:06:01,778 - INFO - 127.0.0.1 - - [09/Jun/2025 17:06:01] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:07:01,797 - INFO - 127.0.0.1 - - [09/Jun/2025 17:07:01] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:08:01,779 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:01] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:08:14,565 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:14] "GET / HTTP/1.1" 200 -
+2025-06-09 17:08:16,906 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:16] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:08:22,779 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:22] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:08:24,829 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:24] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:08:27,238 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:27] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:08:29,598 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:29] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:08:32,066 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:32] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:08:32,156 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:32] "[32mPOST /tasks/add HTTP/1.1[0m" 302 -
+2025-06-09 17:08:34,477 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:34] "GET / HTTP/1.1" 200 -
+2025-06-09 17:08:34,574 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:34] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:08:37,773 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:37] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:08:41,567 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:41] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:08:42,614 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:42] "[32mPOST /tasks/add HTTP/1.1[0m" 302 -
+2025-06-09 17:08:43,933 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:43] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:08:45,001 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:45] "GET / HTTP/1.1" 200 -
+2025-06-09 17:08:47,792 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:47] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:08:52,145 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:52] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:08:54,519 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:54] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:08:57,118 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:57] "[32mPOST /tasks/add HTTP/1.1[0m" 302 -
+2025-06-09 17:08:57,457 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:57] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:08:59,531 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:59] "GET / HTTP/1.1" 200 -
+2025-06-09 17:08:59,827 - INFO - 127.0.0.1 - - [09/Jun/2025 17:08:59] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:09:02,848 - INFO - 127.0.0.1 - - [09/Jun/2025 17:09:02] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:09:07,463 - INFO - 127.0.0.1 - - [09/Jun/2025 17:09:07] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:09:09,859 - INFO - 127.0.0.1 - - [09/Jun/2025 17:09:09] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:09:12,784 - INFO - 127.0.0.1 - - [09/Jun/2025 17:09:12] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:09:14,833 - INFO - 127.0.0.1 - - [09/Jun/2025 17:09:14] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:09:21,905 - INFO - 127.0.0.1 - - [09/Jun/2025 17:09:21] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:09:24,177 - WARNING - Error en health check para http://localhost:5002: HTTPConnectionPool(host='localhost', port=5002): Max retries exceeded with url: /health (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F8C429D7F0>, 'Connection to localhost timed out. (connect timeout=2)'))
+2025-06-09 17:09:24,273 - INFO - 127.0.0.1 - - [09/Jun/2025 17:09:24] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:09:26,662 - INFO - 127.0.0.1 - - [09/Jun/2025 17:09:26] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:09:29,045 - INFO - 127.0.0.1 - - [09/Jun/2025 17:09:29] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:09:29,760 - INFO - 127.0.0.1 - - [09/Jun/2025 17:09:29] "[32mPOST /tasks/add HTTP/1.1[0m" 302 -
+2025-06-09 17:09:31,935 - INFO - 127.0.0.1 - - [09/Jun/2025 17:09:31] "GET / HTTP/1.1" 200 -
+2025-06-09 17:09:32,136 - INFO - 127.0.0.1 - - [09/Jun/2025 17:09:32] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:09:35,204 - WARNING - Error en health check para http://localhost:5002: HTTPConnectionPool(host='localhost', port=5002): Max retries exceeded with url: /health (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F8C42D2090>, 'Connection to localhost timed out. (connect timeout=2)'))
+2025-06-09 17:09:39,781 - INFO - 127.0.0.1 - - [09/Jun/2025 17:09:39] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:09:44,465 - INFO - 127.0.0.1 - - [09/Jun/2025 17:09:44] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:09:46,251 - WARNING - Error en health check para http://localhost:5002: HTTPConnectionPool(host='localhost', port=5002): Max retries exceeded with url: /health (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F8C4684C50>, 'Connection to localhost timed out. (connect timeout=2)'))
+2025-06-09 17:09:49,760 - INFO - 127.0.0.1 - - [09/Jun/2025 17:09:49] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:09:57,286 - WARNING - Error en health check para http://localhost:5002: HTTPConnectionPool(host='localhost', port=5002): Max retries exceeded with url: /health (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001F8C42D23F0>, 'Connection to localhost timed out. (connect timeout=2)'))
+2025-06-09 17:09:58,589 - INFO - 127.0.0.1 - - [09/Jun/2025 17:09:58] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:10:00,969 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:00] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:10:03,341 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:03] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:10:05,713 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:05] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:10:09,079 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:09] "[32mPOST /tasks/add HTTP/1.1[0m" 302 -
+2025-06-09 17:10:09,347 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:09] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:10:11,489 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:11] "GET / HTTP/1.1" 200 -
+2025-06-09 17:10:18,893 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:18] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:10:23,659 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:23] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:10:25,385 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:25] "[32mPOST /tasks/add HTTP/1.1[0m" 302 -
+2025-06-09 17:10:27,809 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:27] "GET / HTTP/1.1" 200 -
+2025-06-09 17:10:28,618 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:28] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:10:35,736 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:35] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:10:40,780 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:40] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:10:44,914 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:44] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:10:45,543 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:45] "[32mPOST /tasks/0/complete HTTP/1.1[0m" 302 -
+2025-06-09 17:10:46,280 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:46] "[32mPOST /tasks/1/complete HTTP/1.1[0m" 302 -
+2025-06-09 17:10:48,679 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:48] "GET / HTTP/1.1" 200 -
+2025-06-09 17:10:49,917 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:49] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:10:56,099 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:56] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:10:58,425 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:58] "[32mPOST /tasks/2/complete HTTP/1.1[0m" 302 -
+2025-06-09 17:10:59,266 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:59] "[32mPOST /tasks/3/complete HTTP/1.1[0m" 302 -
+2025-06-09 17:10:59,856 - INFO - 127.0.0.1 - - [09/Jun/2025 17:10:59] "[32mPOST /tasks/4/complete HTTP/1.1[0m" 302 -
+2025-06-09 17:11:01,756 - INFO - 127.0.0.1 - - [09/Jun/2025 17:11:01] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:11:02,239 - INFO - 127.0.0.1 - - [09/Jun/2025 17:11:02] "GET / HTTP/1.1" 200 -
+2025-06-09 17:11:04,135 - INFO - 127.0.0.1 - - [09/Jun/2025 17:11:04] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:11:09,783 - INFO - 127.0.0.1 - - [09/Jun/2025 17:11:09] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:11:14,469 - INFO - 127.0.0.1 - - [09/Jun/2025 17:11:14] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:11:19,790 - INFO - 127.0.0.1 - - [09/Jun/2025 17:11:19] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:11:24,455 - INFO - 127.0.0.1 - - [09/Jun/2025 17:11:24] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:11:29,764 - INFO - 127.0.0.1 - - [09/Jun/2025 17:11:29] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:11:34,490 - INFO - 127.0.0.1 - - [09/Jun/2025 17:11:34] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:11:39,767 - INFO - 127.0.0.1 - - [09/Jun/2025 17:11:39] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:11:44,484 - INFO - 127.0.0.1 - - [09/Jun/2025 17:11:44] "GET /info HTTP/1.1" 200 -

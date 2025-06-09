@@ -1,0 +1,61 @@
+2025-06-09 17:25:01,878 - INFO - Verificando servidores al inicio...
+2025-06-09 17:25:06,092 - INFO - Balanceador de carga iniciado en http://localhost:8080
+2025-06-09 17:25:06,097 - INFO - Puedes verificar el estado de los servidores en http://localhost:8080/status
+2025-06-09 17:25:06,205 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.104:8080
+2025-06-09 17:25:06,206 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-09 17:25:43,397 - INFO - 127.0.0.1 - - [09/Jun/2025 17:25:43] "[33mPUT /api/tasks/999/complete HTTP/1.1[0m" 404 -
+2025-06-09 17:25:47,556 - INFO - 127.0.0.1 - - [09/Jun/2025 17:25:47] "[31m[1mPOST /api/tasks HTTP/1.1[0m" 400 -
+2025-06-09 17:25:51,646 - INFO - 127.0.0.1 - - [09/Jun/2025 17:25:51] "[35m[1mPOST /api/tasks/simulate-error HTTP/1.1[0m" 500 -
+2025-06-09 17:25:56,783 - INFO - 127.0.0.1 - - [09/Jun/2025 17:25:56] "GET /errors/stats HTTP/1.1" 200 -
+2025-06-09 17:26:14,681 - INFO - 127.0.0.1 - - [09/Jun/2025 17:26:14] "[33mGET /errors/dashboard HTTP/1.1[0m" 404 -
+2025-06-09 17:26:17,180 - INFO - 127.0.0.1 - - [09/Jun/2025 17:26:17] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-09 17:26:24,178 - INFO - 127.0.0.1 - - [09/Jun/2025 17:26:24] "GET / HTTP/1.1" 200 -
+2025-06-09 17:28:20,510 - INFO - Verificando servidores al inicio...
+2025-06-09 17:28:24,552 - INFO - Balanceador de carga iniciado en http://localhost:8080
+2025-06-09 17:28:24,560 - INFO - Puedes verificar el estado de los servidores en http://localhost:8080/status
+2025-06-09 17:28:24,670 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8080
+ * Running on http://192.168.100.104:8080
+2025-06-09 17:28:24,671 - INFO - [33mPress CTRL+C to quit[0m
+2025-06-09 17:28:29,494 - INFO - 127.0.0.1 - - [09/Jun/2025 17:28:29] "GET / HTTP/1.1" 200 -
+2025-06-09 17:28:31,748 - INFO - 127.0.0.1 - - [09/Jun/2025 17:28:31] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-06-09 17:28:36,710 - INFO - 127.0.0.1 - - [09/Jun/2025 17:28:36] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:28:41,682 - INFO - 127.0.0.1 - - [09/Jun/2025 17:28:41] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:28:42,431 - INFO - 127.0.0.1 - - [09/Jun/2025 17:28:42] "[32mPOST /tasks/add HTTP/1.1[0m" 302 -
+2025-06-09 17:28:44,508 - INFO - 127.0.0.1 - - [09/Jun/2025 17:28:44] "GET / HTTP/1.1" 200 -
+2025-06-09 17:28:51,613 - INFO - 127.0.0.1 - - [09/Jun/2025 17:28:51] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:28:56,594 - INFO - 127.0.0.1 - - [09/Jun/2025 17:28:56] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:28:57,696 - INFO - 127.0.0.1 - - [09/Jun/2025 17:28:57] "[32mPOST /tasks/add HTTP/1.1[0m" 302 -
+2025-06-09 17:28:59,783 - INFO - 127.0.0.1 - - [09/Jun/2025 17:28:59] "GET / HTTP/1.1" 200 -
+2025-06-09 17:29:01,583 - INFO - 127.0.0.1 - - [09/Jun/2025 17:29:01] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:29:06,953 - INFO - 127.0.0.1 - - [09/Jun/2025 17:29:06] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:29:12,474 - INFO - 127.0.0.1 - - [09/Jun/2025 17:29:12] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:29:15,913 - INFO - 127.0.0.1 - - [09/Jun/2025 17:29:15] "[33mPUT /api/tasks/999/complete HTTP/1.1[0m" 404 -
+2025-06-09 17:29:17,431 - INFO - 127.0.0.1 - - [09/Jun/2025 17:29:17] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:29:19,982 - INFO - 127.0.0.1 - - [09/Jun/2025 17:29:19] "[31m[1mPOST /api/tasks HTTP/1.1[0m" 400 -
+2025-06-09 17:29:22,452 - INFO - 127.0.0.1 - - [09/Jun/2025 17:29:22] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:29:24,102 - INFO - 127.0.0.1 - - [09/Jun/2025 17:29:24] "[35m[1mPOST /api/tasks/simulate-error HTTP/1.1[0m" 500 -
+2025-06-09 17:29:27,459 - INFO - 127.0.0.1 - - [09/Jun/2025 17:29:27] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:29:29,215 - INFO - 127.0.0.1 - - [09/Jun/2025 17:29:29] "GET /errors/stats HTTP/1.1" 200 -
+2025-06-09 17:29:32,454 - INFO - 127.0.0.1 - - [09/Jun/2025 17:29:32] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:29:37,451 - INFO - 127.0.0.1 - - [09/Jun/2025 17:29:37] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:29:42,016 - INFO - 127.0.0.1 - - [09/Jun/2025 17:29:42] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:29:43,926 - INFO - 127.0.0.1 - - [09/Jun/2025 17:29:43] "[32mPOST /tasks/0/complete HTTP/1.1[0m" 302 -
+2025-06-09 17:29:46,007 - INFO - 127.0.0.1 - - [09/Jun/2025 17:29:46] "GET / HTTP/1.1" 200 -
+2025-06-09 17:29:49,876 - WARNING - Error en health check para http://localhost:5001: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /health (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001586F5253D0>, 'Connection to localhost timed out. (connect timeout=2)'))
+2025-06-09 17:29:51,023 - INFO - 127.0.0.1 - - [09/Jun/2025 17:29:51] "GET /info HTTP/1.1" 200 -
+2025-06-09 17:29:55,149 - CRITICAL - TODOS LOS SERVIDORES FALLARON. Último error: HTTPConnectionPool(host='localhost', port=5002): Max retries exceeded with url: /info (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001586F5130B0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-06-09 17:29:55,149 - INFO - 127.0.0.1 - - [09/Jun/2025 17:29:55] "[35m[1mGET /info HTTP/1.1[0m" 503 -
+2025-06-09 17:29:56,048 - ERROR - ¡ALERTA! No hay servidores activos disponibles. Intentando con todos.
+2025-06-09 17:29:56,643 - ERROR - ¡ALERTA! No hay servidores activos disponibles. Intentando con todos.
+2025-06-09 17:30:00,916 - WARNING - Error en health check para http://localhost:5002: HTTPConnectionPool(host='localhost', port=5002): Max retries exceeded with url: /health (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001586F142E70>, 'Connection to localhost timed out. (connect timeout=2)'))
+2025-06-09 17:30:04,217 - CRITICAL - TODOS LOS SERVIDORES FALLARON. Último error: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /info (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001586F17FC20>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-06-09 17:30:04,220 - INFO - 127.0.0.1 - - [09/Jun/2025 17:30:04] "[35m[1mGET /info HTTP/1.1[0m" 503 -
+2025-06-09 17:30:04,227 - ERROR - ¡ALERTA! No hay servidores activos disponibles. Intentando con todos.
+2025-06-09 17:30:04,822 - CRITICAL - TODOS LOS SERVIDORES FALLARON. Último error: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /tasks/1/complete (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x000001586F5271A0>: Failed to establish a new connection: [WinError 10061] No se puede establecer una conexión ya que el equipo de destino denegó expresamente dicha conexión'))
+2025-06-09 17:30:04,822 - INFO - 127.0.0.1 - - [09/Jun/2025 17:30:04] "[35m[1mPOST /tasks/1/complete HTTP/1.1[0m" 503 -
+2025-06-09 17:30:04,950 - WARNING - Error en health check para http://localhost:5001: HTTPConnectionPool(host='localhost', port=5001): Max retries exceeded with url: /health (Caused by ConnectTimeoutError(<urllib3.connection.HTTPConnection object at 0x000001586F526EA0>, 'Connection to localhost timed out. (connect timeout=2)'))

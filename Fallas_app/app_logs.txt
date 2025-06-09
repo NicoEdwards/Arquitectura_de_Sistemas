@@ -1,0 +1,3 @@
+[2025-06-09 17:28:42] WEB: Nueva tarea añadida: Tarea de Gestión (servidor localhost:5001)
+[2025-06-09 17:28:57] WEB: Nueva tarea añadida: Tarea de Programación Profesiónal (servidor localhost:5002)
+[2025-06-09 17:29:43] WEB: Tarea completada: Tarea de Gestión (servidor localhost:5002)
